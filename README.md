@@ -4,6 +4,13 @@ AeroTask is a responsive, highly polished, and secure task management web applic
 
 ---
 
+## 🔗 Live Links
+- **GitHub Repository**: [MLalithambigai/AeroTask-Task-Manager](https://github.com/MLalithambigai/AeroTask-Task-Manager)
+- **Live Frontend App**: [aerotask-frontend.vercel.app](https://aerotask-frontend.vercel.app)
+- **Live Backend API**: [aero-task-task-manager.vercel.app](https://aero-task-task-manager.vercel.app)
+
+---
+
 ## 🚀 Features
 
 ### 🔐 Authentication Features
