@@ -21,6 +21,10 @@ app.use(express.json());
 
 connectDB();
 
+app.get("/", (req, res) => {
+  res.json({ message: "AeroTask Backend API is running successfully!" });
+});
+
 app.use("/api/v1/auth",authRoutes);
 app.use("/api/auth",authRoutes);
 app.use("/api/tasks",taskRoutes);
